@@ -1,0 +1,2 @@
+# Projeto_Estudo_Titanic_Insights_Classificadores_do_Aprendizado_Estatistico_App_Novos_Passageiros
+Este Repositório apresenta vários algoritmos que tratam os dados do dataset do Titanic, gerando informações por meio de representações gráficas e conhecimento com Insights, fazendo o estudo comparativo do desempenho dos classificadores estatístico no aprendizado de máquina, gerando um algoritmo que realiza novas class. para novos passageiros.
